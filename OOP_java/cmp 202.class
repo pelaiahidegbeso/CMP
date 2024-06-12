@@ -1,0 +1,18 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+package OOP_java;
+
+public class CMP202 {
+    java.lang.String name;
+    java.lang.String password;
+    int age;
+    float height;
+
+    public CMP202() { /* compiled code */ }
+
+    void printUserDetails() { /* compiled code */ }
+
+    public static void main(java.lang.String[] strings) { /* compiled code */ }
+}
